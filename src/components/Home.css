@@ -1,0 +1,84 @@
+body {
+    background-color: aliceblue;
+   display:flex;
+   align-self: center;
+   padding-left: 30px;
+   padding-right: 30px;
+
+}
+.personal-details {
+    text-decoration: none;
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .description {
+    color:black;
+    text-decoration: wavy;
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .title {
+    text-decoration:overline;
+ }
+ .Role {
+    color:brown;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .role-description {
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .skills-list {
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .school {
+    font-size: large;
+
+ }
+ .course {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+
+ }
+ .location {
+    font-size: large;
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .date-time {
+    font-size: large;
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .additional-information {
+    font-size: large;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkslategrey;
+ }
+ .footer-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+   
+   
+ }
